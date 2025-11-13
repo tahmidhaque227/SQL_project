@@ -12,7 +12,7 @@ Data hails from [Luke Barousse SQL Course](https://lukebarousse.com/sql). It's p
 
 1. What are the top-paying data engineer jobs?  
 2. What skills are required for these top-paying jobs?  
-3. What skills are most in demand for data analysts?  
+3. What skills are most in demand for data engineering?  
 4. Which skills are associated with higher salaries?  
 5. What are the most optimal skills to learn?
 
